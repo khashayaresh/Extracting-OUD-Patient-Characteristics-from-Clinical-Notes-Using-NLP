@@ -6,7 +6,7 @@ The project was completed as part of **CS-670: Natural Language Processing (Spri
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 Opioid Use Disorder (OUD) is a major public health crisis, with overdose deaths in the U.S. rising dramatically in recent decades. To better understand OUD, this project applies **NLP methods** to clinical notes from the **MIMIC database** (anonymized electronic health records).  
 
 **Goals:**
@@ -16,7 +16,7 @@ Opioid Use Disorder (OUD) is a major public health crisis, with overdose deaths 
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 1. **Data Extraction**
    - Queried the MIMIC database using SQL.  
    - Selected patients with and without OUD based on ICD codes.  
@@ -46,13 +46,13 @@ Opioid Use Disorder (OUD) is a major public health crisis, with overdose deaths 
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 - `OUD Patient Characteristics Using NLP- Python Code.ipynb` → Jupyter Notebook (code for preprocessing, analysis, and modeling).  
 - `Extracting OUD Patient Characteristics from Clinical Notes Using NLP.pdf` → Full project report with results, figures, and discussion.  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 ```bash
 # Clone this repository
 git clone https://github.com/<your-username>/<repo-name>.git
