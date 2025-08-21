@@ -50,16 +50,3 @@ Opioid Use Disorder (OUD) is a major public health crisis, with overdose deaths 
 - `OUD Patient Characteristics Using NLP- Python Code.ipynb` → Jupyter Notebook (code for preprocessing, analysis, and modeling).  
 - `Extracting OUD Patient Characteristics from Clinical Notes Using NLP.pdf` → Full project report with results, figures, and discussion.  
 
----
-
-##  How to Run
-```bash
-# Clone this repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Open the Jupyter Notebook
-jupyter notebook "OUD Patient Characteristics Using NLP- Python Code.ipynb"
